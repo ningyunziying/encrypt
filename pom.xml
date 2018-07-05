@@ -6,7 +6,7 @@
 
     <groupId>com.ningyunziying</groupId>
     <artifactId>encrypt</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <build>
         <plugins>
